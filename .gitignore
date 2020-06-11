@@ -1,0 +1,10 @@
+.nextflow*
+.command*
+work/
+data/
+results/
+.DS_Store
+HumanRuns/
+Fastq/
+*Genrich*
+design.nf

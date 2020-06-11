@@ -1,0 +1,6 @@
+group,replicate,fastq_1,fastq_2
+Original,1,Fastq/SRR891269_HMMRATAC_1.fastq.gz,Fastq/SRR891269_HMMRATAC_2.fastq.gz
+Original,2,Fastq/SRR891270_HMMRATAC_1.fastq.gz,Fastq/SRR891270_HMMRATAC_2.fastq.gz
+Original,3,Fastq/SRR891271_HMMRATAC_1.fastq.gz,Fastq/SRR891271_HMMRATAC_2.fastq.gz
+Omni,1,Fastq/SRR5427884_Gaspar_1.fastq.gz,Fastq/SRR5427884_Gaspar_2.fastq.gz
+Omni,2,Fastq/SRR5427885_Gaspar_1.fastq.gz,Fastq/SRR5427885_Gaspar_2.fastq.gz

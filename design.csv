@@ -4,3 +4,6 @@ Original,2,Fastq/SRR891270_HMMRATAC_1.fastq.gz,Fastq/SRR891270_HMMRATAC_2.fastq.
 Original,3,Fastq/SRR891271_HMMRATAC_1.fastq.gz,Fastq/SRR891271_HMMRATAC_2.fastq.gz
 Omni,1,Fastq/SRR5427884_Gaspar_1.fastq.gz,Fastq/SRR5427884_Gaspar_2.fastq.gz
 Omni,2,Fastq/SRR5427885_Gaspar_1.fastq.gz,Fastq/SRR5427885_Gaspar_2.fastq.gz
+Parker,1,Fastq/GSM3738821_PCR-constant_experiment_replicate_1_1X_Tn5_Homo_sapiens_ATAC-seq_1.fastq.gz,Fastq/GSM3738821_PCR-constant_experiment_replicate_1_1X_Tn5_Homo_sapiens_ATAC-seq_2.fastq.gz
+Parker,2,Fastq/GSM3738828_PCR-constant_experiment_replicate_2_1X_Tn5_Homo_sapiens_ATAC-seq_1.fastq.gz,Fastq/GSM3738828_PCR-constant_experiment_replicate_2_1X_Tn5_Homo_sapiens_ATAC-seq_2.fastq.gz
+Parker,3,Fastq/GSM3738835_PCR-constant_experiment_replicate_3_1X_Tn5_Homo_sapiens_ATAC-seq_1.fastq.gz,Fastq/GSM3738835_PCR-constant_experiment_replicate_3_1X_Tn5_Homo_sapiens_ATAC-seq_2.fastq.gz

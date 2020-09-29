@@ -72,19 +72,33 @@ I evaluated three tools and seven methods for peak calling for ATAC-seq data. To
 
 ## References
 ATAC-seq peak calling with MACS. https://www.biostars.org/p/209592/.
+
 Babraham Bioinformatics - FastQC A Quality Control tool for High Throughput Sequence Data. https://www.bioinformatics.babraham.ac.uk/projects/fastqc/.
+
 Babraham Bioinformatics - Trim Galore! https://www.bioinformatics.babraham.ac.uk/projects/trim_galore/.
+
 Buenrostro, J. D., Giresi, P. G., Zaba, L. C., Chang, H. Y. & Greenleaf, W. J. Transposition of native chromatin for fast and sensitive epigenomic profiling of open chromatin, DNA-binding proteins and nucleosome position. Nature Methods 10, 1213–1218 (2013).
+
 Corces, M. R. et al. An improved ATAC-seq protocol reduces background and enables interrogation of frozen tissues. Nat Methods 14, 959–962 (2017).
+
 Feng, J., Liu, T., Qin, B., Zhang, Y. & Liu, X. S. Identifying ChIP-seq enrichment using MACS. Nat Protoc 7, (2012).
+
 Gaspar, J. M. Improved peak-calling with MACS2. http://biorxiv.org/lookup/doi/10.1101/496521 (2018) doi:10.1101/496521.
+
 Langmead, B. & Salzberg, S. L. Fast gapped-read alignment with Bowtie 2. Nature Methods 9, 357–359 (2012).
+
 Li, H. et al. The Sequence Alignment/Map format and SAMtools. Bioinformatics 25, 2078–2079 (2009).
+
 Orchard, P., Kyono, Y., Hensley, J., Kitzman, J. O. & Parker, S. C. J. Quantification, Dynamic Visualization, and Validation of Bias in ATAC-Seq Data with ataqv. Cell Syst 10, 298-306.e4 (2020).
+
 Paired end peak callers. https://www.biostars.org/p/365243/.
+
 Picard Tools - By Broad Institute. http://broadinstitute.github.io/picard/.
+
 Quinlan, A. R. & Hall, I. M. BEDTools: a flexible suite of utilities for comparing genomic features. Bioinformatics 26, 841–842 (2010).
+
 Tarbell, E. D. & Liu, T. HMMRATAC: a Hidden Markov ModeleR for ATAC-seq. Nucleic Acids Res 47, e91–e91 (2019).
+
 Yan, F., Powell, D. R., Curtis, D. J. & Wong, N. C. From reads to insight: a hitchhiker’s guide to ATAC-seq data analysis. Genome Biology 21, 22 (2020).
+
 Zhang, Y. et al. Model-based Analysis of ChIP-Seq (MACS). Genome Biology 9, R137 (2008).
-jsh58/Genrich. GitHub https://github.com/jsh58/Genrich.
